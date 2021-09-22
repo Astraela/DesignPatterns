@@ -1,7 +1,6 @@
 # DesignPatterns
  
-# Decorator Pattern
-# [QuickLink](/Assets/Decorator%20Pattern)
+# [Decorator Pattern](/Assets/Decorator%20Pattern)
 Attempt at making a Decorator pattern System.
 
 I didn't really like the whole "bullet = new firebullet(new icebullet(new bullet()))" Idea
