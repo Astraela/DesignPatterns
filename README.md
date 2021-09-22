@@ -1,6 +1,6 @@
 # DesignPatterns
  
-#Decorator Pattern
+# Decorator Pattern
 [QuickLink](/Assets/Decorator%20Pattern)
 Attempt at making a Decorator pattern System.
 
